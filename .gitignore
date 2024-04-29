@@ -1,0 +1,16 @@
+# Ignore Visual Studio Code settings
+**/.vscode/
+
+# Ignore Python bytecode files
+__pycache__/
+**/__pycache__/
+*.pyc
+**/*.pyc
+
+
+# CauPrediction/saved_data
+
+**/saved_*
+**/*data
+
+*.mp3
